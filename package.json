@@ -20,6 +20,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "@types/jest": "^30.0.0",
     "eslint": "^9.29.0",
     "globals": "^16.2.0",
     "husky": "^9.1.7",
